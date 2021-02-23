@@ -1,18 +1,8 @@
 #Ian {
     background: url(6C2LOXk.jpg);
     padding: 10px 50px 55px 100px;
-    font-family: 'Tahoma', sans-serif;
-    font-size: 18px;
-}
-
-#about_me {
-    font-family: 'Tahoma', sans-serif;
-    padding: 70px 50px 50px 70px;
-    text-align: center;
+    font-family: 'courier';
     font-size: 20px;
-}
-#about_me > p {
-    text-align: center;
 }
 
 #about_me > table {
@@ -20,7 +10,7 @@
 }
 
 #KnowMe {
-    font-family: 'Tahoma', sans-serif;
+    font-family: 'courier', sans-serif;
     background: url(fdRqQxx.png);
     padding: 10px 20px 20px 90px;
     text-align: left;
@@ -30,12 +20,11 @@
 
 #Portafolio {
     background: url(THtzBbq.png);
-    font-family: 'Tahoma', sans-serif;
+    font-family: 'courier';
     padding: 10px 50px 50px 90px;
     text-align: right;
     font-size: 20px;
     color: white;
 }
-
 
 
